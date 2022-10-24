@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ishtaqkhan23
-- 👀 I’m interested in exploring web technologies, framworks and doing my best to help the beginners to start with thier journey towards Java/j2EE.
+- 👀 I’m interested in exploring web technologies, frameworks and doing my best to help the beginners to start with their journey towards Java/j2EE.
 - 🌱 I’m currently learning Microservices/Kubernetees/DevOps/Cloud based Spring frameworks/Kafka.. the list goes on!
 - 💞️ I’m looking to collaborate on building a projects/apps to help the social communities.
 - 📫 How to reach me ... ? 
